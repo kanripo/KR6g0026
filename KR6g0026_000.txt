@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大悲經
+#+DATE: 2015-08-30 20:04:31.892955
+#+PROPERTY: JUAN 0
